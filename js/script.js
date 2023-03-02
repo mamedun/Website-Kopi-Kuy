@@ -1,4 +1,4 @@
-/*
+
 
 $("#pilih-kopi").on("change", function() {
     let nilai_dipilih = $(this).val()
@@ -25,7 +25,7 @@ $("#pilih-kopi").on("change", function() {
     })
 })
 
-*/
+
 
 /* Silahkan Coba sendiri dengan mengetik ulang kode di bawah sini */
 
