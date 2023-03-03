@@ -26,6 +26,5 @@ $("#pilih-kopi").on("change", function() {
 })
 
 
-
 /* Silahkan Coba sendiri dengan mengetik ulang kode di bawah sini */
 
